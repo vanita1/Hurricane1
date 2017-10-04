@@ -1,0 +1,8 @@
+export("read_ext_tracks","Geocode_combined_html","Geocode_Combined","Geocode_single","geom_hurricane")
+import(readr)
+import(dplyr)
+import(tidyr)
+importFrom("magrittr","%>%")
+import(ggplot2)
+import(animation)
+import(ggmap)

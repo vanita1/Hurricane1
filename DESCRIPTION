@@ -1,0 +1,13 @@
+Package: Geopackage
+Type: Package
+Title: This package helps to draw the storm path.
+Version: 1.0
+Date: 2017-10-02
+Depends:  R (>= 3.0.0)
+Imports: readr,dplyr,tidyr,magrittr,animation,ggplot2,ggmap,lubridate,geosphere
+Author: Vanita<Vanita.garg@gmail.com>
+Maintainer:  Vanita<Vanita.garg@gmail.com>
+Description: This package helps to draw the storm path
+License: GPL (>= 2)
+RoxygenNote: 6.0.1
+
