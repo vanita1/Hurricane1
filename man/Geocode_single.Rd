@@ -16,7 +16,7 @@ Geocode_single(tidy_tracks, stormvalue, cname, latitude1)
 NAME
 }
 \details{
-: Data (in form of data frame) fed to this function is enriched and data visulaization layer uses enriched data to plot the parameters.
+: Data (inggggg form of data frame) fed to this function is enriched and data visulaization layer uses enriched data to plot the parameters.
 }
 \note{
 More descriptive
